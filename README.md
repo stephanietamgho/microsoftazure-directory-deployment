@@ -13,7 +13,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
-<h3> Given the tutorial's extended length, creating a video was deemed more suitable to visually demonstrate the multi-step process, including seamless transitions between virtual machines.</h3>
+<h4>Given the tutorial's extended length, creating a video was deemed more suitable to visually demonstrate the multi-step process, including seamless transitions between virtual machines.</h4>
 
 <h2>Environments and Technologies Used</h2>
 
